@@ -8,8 +8,8 @@
 
 The Code is divided in 3 repositories as follows:
 For more details, visit our 
-[Frontend repository](https://github.com/keshavgoyal1744/TripPlanner-frontend).
-[Backend repository](https://github.com/keshavgoyal1744/TripPlanner-itinerary-backend).
+[Frontend repository](https://github.com/keshavgoyal1744/TripPlanner-frontend), 
+[Backend repository](https://github.com/keshavgoyal1744/TripPlanner-itinerary-backend), 
 [Video Analysis repository](https://github.com/keshavgoyal1744/TripPlanner-videoanalysis-backend).
 
 
