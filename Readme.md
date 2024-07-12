@@ -44,7 +44,7 @@ Our backend is built on a microservices architecture using Flask. We deployed th
 
 The heart of SwipeAndFly is our custom-built AI system. We developed our own video analysis techniques that can quickly process TikTok videos, extracting relevant information about locations, activities, and ambiance. This is combined with Large Language Models (specifically OpenAI's GPT-4) to interpret the video content and generate coherent, personalized itineraries.
 
-![SwipeAndFly Logo](img/built model.png)
+![SwipeAndFly Logo](https://github.com/keshavgoyal1744/Trip-Planner/blob/main/img/built%20model.png)
 
 ### Cloud Deployment
 
