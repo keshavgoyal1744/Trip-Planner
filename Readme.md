@@ -1,4 +1,12 @@
 # SwipeAndFly
+![Logo](https://github.com/keshavgoyal1744/Trip-Planner/blob/main/img/logo.jpg)
+![Image 1](https://github.com/keshavgoyal1744/Trip-Planner/blob/main/img/1.jpg)
+![Image 2](https://github.com/keshavgoyal1744/Trip-Planner/blob/main/img/2.jpg)
+![Image 3](https://github.com/keshavgoyal1744/Trip-Planner/blob/main/img/3.jpg)
+![Image 4](https://github.com/keshavgoyal1744/Trip-Planner/blob/main/img/4.jpg)
+![Image 5](https://github.com/keshavgoyal1744/Trip-Planner/blob/main/img/5.jpg)
+
+
 
 ## Inspiration
 
